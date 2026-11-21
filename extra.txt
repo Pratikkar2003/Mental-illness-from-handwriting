@@ -1,0 +1,3 @@
+cd .\handwriting_emotion
+
+python -m streamlit run app.py
